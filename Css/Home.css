@@ -1,0 +1,149 @@
+@font-face {
+
+    font-family: AGENCYB;
+    src: url(../Fontes/Fontesdapagina/AGENCYB.TTF)
+}
+.btn a
+{
+	color: white;
+}
+nav	
+{
+	font-family: AGENCYB;
+}
+nav li a 
+{
+	color: white;
+	text-decoration: none; 
+}
+nav li a:hover
+{
+	color: white;
+	box-shadow: 2px 2px 2px #461051; 
+	border-radius: 5pt 5pt 5pt 5pt;
+	transition: 0.3s;
+}
+body
+{
+	background: url(../Imagens/Index/Planodefundo3.jpg);
+	background-size: 100%;
+}
+#menu
+{
+	margin-left: 60px;
+}
+#esconder
+{
+	
+}
+#rodape
+{
+	background-color: #461051;
+	margin-top: 120px;
+	padding: 10px;
+	margin-left: -15px;
+	margin-right: -15px;
+	font-family: AGENCYB;
+	color: white;
+	text-align: center;
+}
+#conteudo h4
+{
+	margin-top: 10px; 
+}
+#conteudo2 img
+{
+	margin-bottom: 20px; 
+}
+
+#logoprincipal
+{
+	padding-top: 30px; 
+	margin: 0px auto; 
+	width: 300px;
+	font-family: AGENCYB;
+	color: white;
+	font-size: 20px;
+	text-align: center;	
+}
+#logoprincipal button
+{
+	font-size: 18px;
+}
+#login
+{
+	padding: 5px 10px 5px 10px;
+	border-radius: 0pt 0pt 0pt 0pt;
+	/*border: 2px solid white;*/
+}
+#login a:hover
+{
+	text-decoration: line-through; 
+}
+#cadastro
+{
+	background-color: white;
+	border-radius: 3pt 3pt 3pt 3pt;
+}
+#cadastro a
+{
+	color: #461051 !important; 
+}
+#cadastro a:hover
+{
+	text-decoration: line-through; 
+}
+#logoprincipal a 
+{
+	color: white;
+	text-decoration: none; 
+}
+#arealogopeq
+{
+	text-align: center;
+}
+#logopeq
+{
+	width: 80px;
+}
+#logo
+{
+	width: 300px;
+}
+#instagram
+{
+	width: 50px;
+}
+#gmail
+{
+	width: 50px;
+}
+#facebook
+{
+	width: 50px;
+}
+
+#conteudo
+{
+	background-color: white;
+	padding: 30px;
+	margin-top: 50px; 
+	margin-left: -15px;
+	margin-right: -15px;
+	font-family: AGENCYB;
+	text-align: center;
+	color: #461051;
+	/*border-top: 8px solid #461051;*/ 
+}
+#conteudo2
+{
+	background-color: white;
+	padding: 30px;
+	margin-top: 150px; 
+	margin-left: -15px;
+	margin-right: -15px;
+	font-family: AGENCYB;
+	text-align: center;
+	color: #461051;
+}
+

@@ -1,0 +1,86 @@
+@font-face {
+
+    font-family: AGENCYB;
+    src: url(../Fontes/Fontesdapagina/AGENCYB.TTF);
+}
+body
+{
+	background: url("../Imagens/Index/Planodefundo3.jpg");
+	background-size: 100%;
+}
+nav	
+{
+	font-family: AGENCYB;
+	background-color: #461051;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+nav li a 
+{
+	color: white;
+	text-decoration: none;  
+}
+nav li a:hover
+{
+	color: lightgray; 
+	border-radius: 5pt 5pt 5pt 5pt;
+	transition: 0.3s;
+}
+
+#rodape
+{
+	/*background-color: #461051;*/
+	background: rgba(0,0,0, 0.5);
+	margin-top: 20px;
+	padding: 5px;
+	margin-left: -15px;
+	margin-right: -15px;
+	font-family: AGENCYB;
+	color: white;
+	text-align: center;
+}
+#rodape p
+{
+	margin-top: 15px;
+}
+
+
+#logopeq
+{
+	width: 50px;
+}
+
+#arealogopeq2
+{
+	width: 80px;
+	margin: 0px auto 10px auto;
+}
+
+#logopeq2
+{
+	width: 80px;
+}
+
+
+#conteudo
+{
+	background-color: white;
+	padding: 40px;
+	font-family: AGENCYB;
+	text-align: center;
+	color: #461051;
+}
+
+#conteudo h4
+{
+	margin-top: 8px; 
+}
+
+#div-principal
+{
+	margin-top: 50px;
+	padding-top:10px;
+	padding-bottom:20px;
+	box-shadow: black 2px 2px 8px 2px;
+}
+

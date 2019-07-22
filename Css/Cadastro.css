@@ -1,0 +1,98 @@
+@font-face {
+
+    font-family: AGENCYB;
+    src: url(../Fontes/Fontesdapagina/AGENCYB.TTF)
+}
+nav	
+{
+	font-family: AGENCYB;
+}
+nav li a 
+{
+	color: white;
+	text-decoration: none; 
+}
+nav li a:hover
+{
+	color: white;
+	box-shadow: 2px 2px 2px #461051; 
+	border-radius: 5pt 5pt 5pt 5pt;
+	transition: 0.3s;
+}
+body
+{
+	background: url(../Imagens/Index/Planodefundo3.jpg);
+	background-size: 100%;
+}
+#menu
+{
+	margin-left: 60px;
+}
+#rodape
+{
+	background-color: #461051;
+	margin-top: 120px;
+	padding: 10px;
+	font-family: AGENCYB;
+	color: white;
+	text-align: center;
+}
+#logocadastro
+{
+	border-radius: 5pt 5pt 0pt 0pt;
+	box-shadow: black 2px 2px 8px 2px;
+	margin: 0px auto;
+	width: 400px;
+	height: 100px;
+}
+form
+{
+	border-radius: 0pt 0pt 5pt 5pt;
+	box-shadow: black 2px 2px 8px 2px;
+	width: 400px;	
+	margin: 0px auto;
+	background-color: white;
+	padding: 30px;	
+	text-align: center;
+}
+.btn
+{
+	color: #461051;
+}
+
+#cadastro
+{
+	font-family: AGENCYB;
+	margin: 50px auto; 
+}
+
+#logopeq2
+{
+	width: 100px;
+	margin-top: 20px;
+}
+#arealogopeq2
+{
+	width: 100px;
+	margin: 0px auto;
+}
+#logopeq
+{
+	width: 80px;
+}
+#logo
+{
+	width: 400px;
+}
+#instagram
+{
+	width: 50px;
+}
+#gmail
+{
+	width: 50px;
+}
+#facebook
+{
+	width: 50px;
+}
